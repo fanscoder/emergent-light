@@ -1,0 +1,35 @@
+{
+  "note": "Same seeds, different genome schemas; descriptive version comparison, not identical initial genomes.",
+  "comparisons": [
+    {
+      "seed": 42,
+      "oldCombatDeaths": 547,
+      "newCombatDeaths": 1,
+      "oldMutationBirthFraction": 0.5309734513274337,
+      "newMutationBirthFraction": 0.09883720930232558,
+      "livingLineages": 57,
+      "largestLineage": 25,
+      "meanDeathAge": 191.44440363557547
+    },
+    {
+      "seed": 20261014,
+      "oldCombatDeaths": 497,
+      "newCombatDeaths": 3,
+      "oldMutationBirthFraction": 0.5428571428571428,
+      "newMutationBirthFraction": 0.1536144578313253,
+      "livingLineages": 55,
+      "largestLineage": 30,
+      "meanDeathAge": 191.13335735210475
+    },
+    {
+      "seed": 731,
+      "oldCombatDeaths": 491,
+      "newCombatDeaths": 1,
+      "oldMutationBirthFraction": 0.5610200364298725,
+      "newMutationBirthFraction": 0.12312312312312312,
+      "livingLineages": 53,
+      "largestLineage": 14,
+      "meanDeathAge": 191.70105830225452
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modes": [
+    "particle-life",
+    "boids",
+    "ecology-boids",
+    "ecology-life",
+    "evolution"
+  ],
+  "status": "演化观察\n个体外观与遗传\n个体 186 · 营养颗粒 419\n累计出生 7 · 配对 7 · 出芽 0 · 变异出生 1\n最高代数 1 · 属性离散度 0.29\n当前相似类群 ≈4 · 零散个体 170\n存活祖系 179 · 最大祖系 2\n累计猎食尝试 0 · 捕获 0 · 遭反杀 0\n猎食转移能量 0.0 · 跨区 27\n累计交锋 2 · 非致死 1 · 战斗死亡 1\n近期窗口 2/120秒\n近期出生 7 · 战斗死亡 1 · 交锋 2\n近期平均死亡年龄 71秒（1个样本） · 累计迁入 0\n肉食倾向 46% · 进攻倾向 47%\n攻击强度 52% · 群体性 51%\n寿命倾向 50% · 速度倾向 53%\n差异容忍度 52%\n当前属性区间（10%–90%）：\n肉食 6%–89% · 进攻 9%–88% · 战力 10%–90% · 群体 10%–92% · 容忍 12%–92% · 寿命 11%–88% · 速度 12%–93%\n分区观察（编号对应弯曲网格）：\n区域1 补给×1.59 · 28个 · 肉食48%\n区域2 补给×0.83 · 24个 · 肉食47%\n区域3 补给×1.33 · 28个 · 肉食40%\n区域4 补给×0.97 · 17个 · 肉食49%\n区域5 补给×0.79 · 22个 · 肉食46%\n区域6 补给×1.24 · 24个 · 肉食42%\n区域7 补给×0.64 · 32个 · 肉食46%\n区域8 补给×0.62 · 11个 · 肉食58%",
+  "checks": [
+    "new and legacy mode selection",
+    "evolution observation",
+    "species controls hidden",
+    "mutation slider",
+    "evolution reset",
+    "unknown schema rejected",
+    "genetic preset import",
+    "legacy ecology restoration",
+    "no runtime exceptions",
+    "slider hints",
+    "experimental unlock and relock",
+    "recent statistics and current groups",
+    "habitat and hunting toggles",
+    "regional census and hunting metrics",
+    "terrain visibility and reproduction toggles"
+  ]
+}

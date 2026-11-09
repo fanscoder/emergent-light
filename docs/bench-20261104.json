@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-11-04T14:17:31.875Z",
+  "screen": {
+    "width": 1280,
+    "height": 679,
+    "dpr": 2
+  },
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0",
+  "results": [
+    {
+      "mode": "particle-life",
+      "count": 500,
+      "frames": 180,
+      "fps": 59.66587112171838,
+      "simMs": 7.989444444908036,
+      "renderMs": 3.064999995628993
+    },
+    {
+      "mode": "particle-life",
+      "count": 1000,
+      "frames": 180,
+      "fps": 34.9514563106796,
+      "simMs": 23.646111111839613,
+      "renderMs": 4.649999998013178
+    },
+    {
+      "mode": "particle-life",
+      "count": 2000,
+      "frames": 180,
+      "fps": 10.027799288026252,
+      "simMs": 89.07055555780728,
+      "renderMs": 10.34222222202354
+    },
+    {
+      "mode": "boids",
+      "count": 300,
+      "frames": 180,
+      "fps": 59.99999999999999,
+      "simMs": 2.468888890412119,
+      "renderMs": 2.9405555526415506
+    },
+    {
+      "mode": "boids",
+      "count": 600,
+      "frames": 180,
+      "fps": 59.99999999999999,
+      "simMs": 2.557222221957313,
+      "renderMs": 3.077222220102946
+    },
+    {
+      "mode": "boids",
+      "count": 1200,
+      "frames": 180,
+      "fps": 60.00400026668439,
+      "simMs": 2.529444442854987,
+      "renderMs": 3.0327777789698707
+    }
+  ]
+}

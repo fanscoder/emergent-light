@@ -1,0 +1,56 @@
+{
+  "initial": {
+    "x": 912,
+    "y": 8,
+    "width": 360,
+    "height": 640
+  },
+  "moved": {
+    "x": 512,
+    "y": 108,
+    "width": 360,
+    "height": 640
+  },
+  "resized": {
+    "x": 512,
+    "y": 108,
+    "width": 440,
+    "height": 660
+  },
+  "scaled": {
+    "x": 512,
+    "y": 33,
+    "width": 506,
+    "height": 759
+  },
+  "collapsed": {
+    "x": 512,
+    "y": 33,
+    "width": 253,
+    "height": 46.234375
+  },
+  "persisted": {
+    "x": 512,
+    "y": 33,
+    "width": 253,
+    "height": 46.234375
+  },
+  "small": {
+    "x": 126,
+    "y": 8,
+    "width": 506,
+    "height": 384
+  },
+  "sliders": 15,
+  "checks": [
+    "drag",
+    "resize",
+    "scale",
+    "collapse",
+    "reload persistence",
+    "small viewport bounds",
+    "layout reset",
+    "species range update",
+    "species reset"
+  ]
+}

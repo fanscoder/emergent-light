@@ -1,0 +1,21 @@
+{
+  "modes": [
+    "particle-life",
+    "boids",
+    "ecology-boids",
+    "ecology-life",
+    "evolution"
+  ],
+  "status": "演化观察\n个体外观与遗传\n个体 177 · 营养颗粒 440\n出芽 4 · 发生变异的出生 1\n当前最高代数 1 · 属性离散度 0.29\n交锋 6 · 战斗死亡 7 · 迁入 0\n平均肉食倾向 49% · 进攻倾向 52%\n平均攻击能力 51% · 社交倾向 51%\n平均差异容忍度 50%",
+  "checks": [
+    "new and legacy mode selection",
+    "evolution observation",
+    "species controls hidden",
+    "mutation slider",
+    "evolution reset",
+    "unknown schema rejected",
+    "genetic preset import",
+    "legacy ecology restoration",
+    "no runtime exceptions"
+  ]
+}

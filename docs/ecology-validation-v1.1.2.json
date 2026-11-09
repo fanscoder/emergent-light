@@ -1,0 +1,94 @@
+{
+  "simulatedSecondsPerRun": 300,
+  "rescueEnabled": false,
+  "runs": [
+    {
+      "mode": "ecology-boids",
+      "seed": 42,
+      "elapsedMs": 29990.153299999998,
+      "minimumPrey": 108,
+      "minimumPredators": 18,
+      "peakPopulation": 229,
+      "final": {
+        "births": 401,
+        "predation": 254,
+        "foodEaten": 5124,
+        "starvation": 10,
+        "oldAge": 176,
+        "immigrants": 0,
+        "cyan": 83,
+        "amber": 36,
+        "predators": 22,
+        "food": 176,
+        "population": 141,
+        "meanEnergy": 1.04012238841953
+      }
+    },
+    {
+      "mode": "ecology-boids",
+      "seed": 20261014,
+      "elapsedMs": 26233.437299999998,
+      "minimumPrey": 90,
+      "minimumPredators": 18,
+      "peakPopulation": 232,
+      "final": {
+        "births": 437,
+        "predation": 330,
+        "foodEaten": 5099,
+        "starvation": 18,
+        "oldAge": 138,
+        "immigrants": 0,
+        "cyan": 96,
+        "amber": 13,
+        "predators": 22,
+        "food": 201,
+        "population": 131,
+        "meanEnergy": 1.04928249336836
+      }
+    },
+    {
+      "mode": "ecology-life",
+      "seed": 42,
+      "elapsedMs": 42205.0349,
+      "minimumPrey": 30,
+      "minimumPredators": 4,
+      "peakPopulation": 186,
+      "final": {
+        "births": 346,
+        "predation": 345,
+        "foodEaten": 3664,
+        "starvation": 12,
+        "oldAge": 63,
+        "immigrants": 0,
+        "cyan": 46,
+        "amber": 55,
+        "predators": 5,
+        "food": 1400,
+        "population": 106,
+        "meanEnergy": 0.8119353810852429
+      }
+    },
+    {
+      "mode": "ecology-life",
+      "seed": 20261014,
+      "elapsedMs": 32500.721999999994,
+      "minimumPrey": 24,
+      "minimumPredators": 6,
+      "peakPopulation": 184,
+      "final": {
+        "births": 290,
+        "predation": 381,
+        "foodEaten": 3091,
+        "starvation": 2,
+        "oldAge": 46,
+        "immigrants": 0,
+        "cyan": 23,
+        "amber": 12,
+        "predators": 6,
+        "food": 1400,
+        "population": 41,
+        "meanEnergy": 0.9745230791045398
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "simulatedSecondsPerRun": 300,
+  "rescueEnabled": false,
+  "runs": [
+    {
+      "mode": "ecology-boids",
+      "seed": 42,
+      "elapsedMs": 34477.8462,
+      "minimumPrey": 62,
+      "minimumPredators": 15,
+      "peakPopulation": 226,
+      "final": {
+        "births": 516,
+        "predation": 439,
+        "foodEaten": 4919,
+        "starvation": 14,
+        "oldAge": 93,
+        "immigrants": 0,
+        "defenseDeaths": 46,
+        "guardClashes": 23,
+        "cyan": 55,
+        "amber": 21,
+        "predators": 28,
+        "food": 381,
+        "population": 104,
+        "meanEnergy": 1.0441124075307295
+      }
+    },
+    {
+      "mode": "ecology-boids",
+      "seed": 20261014,
+      "elapsedMs": 33754.3348,
+      "minimumPrey": 83,
+      "minimumPredators": 16,
+      "peakPopulation": 226,
+      "final": {
+        "births": 506,
+        "predation": 413,
+        "foodEaten": 4939,
+        "starvation": 12,
+        "oldAge": 99,
+        "immigrants": 0,
+        "defenseDeaths": 28,
+        "guardClashes": 16,
+        "cyan": 57,
+        "amber": 58,
+        "predators": 19,
+        "food": 361,
+        "population": 134,
+        "meanEnergy": 0.8952459914248381
+      }
+    },
+    {
+      "mode": "ecology-life",
+      "seed": 42,
+      "elapsedMs": 46090.047399999996,
+      "minimumPrey": 50,
+      "minimumPredators": 1,
+      "peakPopulation": 201,
+      "final": {
+        "births": 547,
+        "predation": 423,
+        "foodEaten": 4545,
+        "starvation": 30,
+        "oldAge": 47,
+        "immigrants": 0,
+        "defenseDeaths": 26,
+        "guardClashes": 13,
+        "cyan": 105,
+        "amber": 95,
+        "predators": 1,
+        "food": 755,
+        "population": 201,
+        "meanEnergy": 0.6042740616428467
+      }
+    },
+    {
+      "mode": "ecology-life",
+      "seed": 20261014,
+      "elapsedMs": 58596.965,
+      "minimumPrey": 102,
+      "minimumPredators": 1,
+      "peakPopulation": 187,
+      "final": {
+        "births": 516,
+        "predation": 302,
+        "foodEaten": 4332,
+        "starvation": 114,
+        "oldAge": 93,
+        "immigrants": 0,
+        "defenseDeaths": 24,
+        "guardClashes": 12,
+        "cyan": 117,
+        "amber": 45,
+        "predators": 1,
+        "food": 968,
+        "population": 163,
+        "meanEnergy": 0.6419560529657302
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "modes": [
+    "particle-life",
+    "boids",
+    "ecology-boids",
+    "ecology-life",
+    "evolution"
+  ],
+  "status": "演化观察\n个体外观与遗传\n个体 180 · 营养颗粒 447\n出芽 0 · 变异出生 0\n最高代数 0 · 属性离散度 0.29\n存续谱系 180 · 最大亲缘群 1\n交锋 0 · 非致死 0 · 战斗死亡 0\n平均死亡年龄 0秒 · 迁入 0\n肉食倾向 46% · 进攻倾向 47%\n攻击强度 51% · 群体性 52%\n寿命倾向 50% · 速度倾向 53%\n差异容忍度 52%",
+  "checks": [
+    "new and legacy mode selection",
+    "evolution observation",
+    "species controls hidden",
+    "mutation slider",
+    "evolution reset",
+    "unknown schema rejected",
+    "genetic preset import",
+    "legacy ecology restoration",
+    "no runtime exceptions"
+  ]
+}

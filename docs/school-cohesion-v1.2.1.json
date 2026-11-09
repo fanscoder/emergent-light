@@ -1,0 +1,151 @@
+{
+  "note": "Five one-minute snapshots, one default seed; finite comparison, not a universal guarantee.",
+  "runs": [
+    {
+      "version": "1.2.0",
+      "seed": 20261014,
+      "simulatedSeconds": 300,
+      "samples": [
+        {
+          "seconds": 60,
+          "heads": 6,
+          "followers": 190,
+          "near": 114,
+          "withLeader": 190,
+          "meanDistance": 127.69063328313065,
+          "nearFraction": 0.6,
+          "behindFraction": 0.4842105263157895
+        },
+        {
+          "seconds": 120,
+          "heads": 5,
+          "followers": 115,
+          "near": 44,
+          "withLeader": 115,
+          "meanDistance": 149.782171992718,
+          "nearFraction": 0.3826086956521739,
+          "behindFraction": 0.7217391304347827
+        },
+        {
+          "seconds": 180,
+          "heads": 4,
+          "followers": 90,
+          "near": 31,
+          "withLeader": 90,
+          "meanDistance": 159.5409674737283,
+          "nearFraction": 0.34444444444444444,
+          "behindFraction": 0.35555555555555557
+        },
+        {
+          "seconds": 240,
+          "heads": 4,
+          "followers": 72,
+          "near": 29,
+          "withLeader": 72,
+          "meanDistance": 160.82119204029527,
+          "nearFraction": 0.4027777777777778,
+          "behindFraction": 0.4027777777777778
+        },
+        {
+          "seconds": 300,
+          "heads": 3,
+          "followers": 73,
+          "near": 15,
+          "withLeader": 73,
+          "meanDistance": 222.10654660118593,
+          "nearFraction": 0.2054794520547945,
+          "behindFraction": 0.1917808219178082
+        }
+      ],
+      "meanNearFraction": 0.38706207398583814,
+      "meanBehindFraction": 0.4312127624003427,
+      "final": {
+        "births": 482,
+        "predation": 421,
+        "foodEaten": 5041,
+        "starvation": 16,
+        "oldAge": 116,
+        "immigrants": 0,
+        "cyan": 34,
+        "amber": 42,
+        "predators": 33,
+        "food": 259,
+        "population": 109,
+        "meanEnergy": 1.0397833934344283
+      }
+    },
+    {
+      "version": "1.2.1",
+      "seed": 20261014,
+      "simulatedSeconds": 300,
+      "samples": [
+        {
+          "seconds": 60,
+          "heads": 6,
+          "followers": 182,
+          "near": 133,
+          "withLeader": 182,
+          "meanDistance": 78.31296860383934,
+          "nearFraction": 0.7307692307692307,
+          "behindFraction": 0.8461538461538461
+        },
+        {
+          "seconds": 120,
+          "heads": 4,
+          "followers": 74,
+          "near": 61,
+          "withLeader": 74,
+          "meanDistance": 84.29582977123157,
+          "nearFraction": 0.8243243243243243,
+          "behindFraction": 0.6891891891891891
+        },
+        {
+          "seconds": 180,
+          "heads": 4,
+          "followers": 56,
+          "near": 31,
+          "withLeader": 56,
+          "meanDistance": 150.90451559959638,
+          "nearFraction": 0.5535714285714286,
+          "behindFraction": 0.625
+        },
+        {
+          "seconds": 240,
+          "heads": 2,
+          "followers": 38,
+          "near": 21,
+          "withLeader": 38,
+          "meanDistance": 126.92371045746727,
+          "nearFraction": 0.5526315789473685,
+          "behindFraction": 0.3684210526315789
+        },
+        {
+          "seconds": 300,
+          "heads": 4,
+          "followers": 64,
+          "near": 44,
+          "withLeader": 55,
+          "meanDistance": 73.40428643600235,
+          "nearFraction": 0.6875,
+          "behindFraction": 0.75
+        }
+      ],
+      "meanNearFraction": 0.6697593125224703,
+      "meanBehindFraction": 0.6557528175949228,
+      "final": {
+        "births": 536,
+        "predation": 500,
+        "foodEaten": 4928,
+        "starvation": 34,
+        "oldAge": 79,
+        "immigrants": 0,
+        "cyan": 59,
+        "amber": 9,
+        "predators": 35,
+        "food": 372,
+        "population": 103,
+        "meanEnergy": 0.9761009557733258
+      }
+    }
+  ]
+}
